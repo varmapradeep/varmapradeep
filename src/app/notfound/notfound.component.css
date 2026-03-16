@@ -1,0 +1,179 @@
+.glitch {
+    font-size: clamp(90px, 18vw, 160px);
+    font-weight: 800;
+    position: relative;
+    color: #ff1a1a;
+    animation: flicker 2s infinite;
+}
+
+.glitch::before,
+.glitch::after {
+    content: "404";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.glitch::before {
+    color: #ff4d4d;
+    clip-path: inset(0 0 60% 0);
+    animation: glitchTop 2s infinite linear;
+}
+
+.glitch::after {
+    color: #b30000;
+    clip-path: inset(60% 0 0 0);
+    animation: glitchBottom 1.5s infinite linear;
+}
+
+h2 {
+    font-size: clamp(20px, 5vw, 32px);
+    margin: 10px 0;
+}
+
+p {
+    font-size: clamp(14px, 3vw, 16px);
+    color: #ff9999;
+    margin-bottom: 25px;
+}
+
+.home-btn {
+    background: transparent;
+    border: 2px solid #ff1a1a;
+    color: #fff9f9;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 300px;
+}
+
+.home-btn:hover {
+    background: #ff1a1a;
+    color: #ffffff;
+    font-size: 18px;
+
+    box-shadow: 0 0 20px #ff1a1a;
+}
+
+
+
+/* Animations */
+
+@keyframes glitchTop {
+    0% {
+        transform: translate(0);
+    }
+
+    20% {
+        transform: translate(-3px, -3px);
+    }
+
+    40% {
+        transform: translate(3px, 3px);
+    }
+
+    60% {
+        transform: translate(-2px, 2px);
+    }
+
+    80% {
+        transform: translate(2px, -2px);
+    }
+
+    100% {
+        transform: translate(0);
+    }
+}
+
+@keyframes glitchBottom {
+    0% {
+        transform: translate(0);
+    }
+
+    20% {
+        transform: translate(3px, 3px);
+    }
+
+    40% {
+        transform: translate(-3px, -3px);
+    }
+
+    60% {
+        transform: translate(2px, -2px);
+    }
+
+    80% {
+        transform: translate(-2px, 2px);
+    }
+
+    100% {
+        transform: translate(0);
+    }
+}
+
+@keyframes flicker {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.85;
+    }
+}
+
+@keyframes scanMove {
+    from {
+        background-position-y: 0;
+    }
+
+    to {
+        background-position-y: 100vh;
+    }
+}
+
+.notfound-wrapper {
+    height: 100svh;
+    /* fixes mobile viewport bug */
+    min-height: 100vh;
+    background: radial-gradient(circle at center, #140000, #000);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    touch-action: none;
+}
+
+canvas {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    display: block;
+}
+
+.center-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    color: #ff1a1a;
+}
+
+.scanlines {
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(to bottom,
+            rgba(255, 0, 0, 0.04),
+            rgba(255, 0, 0, 0.04) 1px,
+            transparent 2px,
+            transparent 4px);
+    pointer-events: none;
+    z-index: 3;
+}
