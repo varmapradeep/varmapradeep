@@ -1,32 +1,127 @@
-# VarmaPradeep
+# Hi there 👋, I'm Varma Pradeep
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+## 🚀 Software Developer | Full Stack Developer
 
-## Development server
+Passionate Software Developer with experience in building scalable web applications using **Angular, .NET, Node.js, MySQL, and SQL Server**. I enjoy solving real-world problems, developing ERP systems, management platforms, and modern web applications with clean UI and secure architecture.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Currently focused on:
 
-## Code scaffolding
+* Angular Development (Intermediate Level)
+* Full Stack Development with .NET + Angular
+* ERP & Resort Management Systems
+* Secure Role-Based Applications
+* API Integration & Performance Optimization
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 👨‍💻 About Me
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* 💼 Role: Software Developer
+* 🌍 Location: India
+* 🧠 Currently Learning: Advanced Angular & System Design
+* 🏗 Working On: ERP Systems, Resort Management System, Camera-based Angular Projects
+* 🎯 Goal: Build high-performance enterprise applications
+* 💬 Ask me about: Angular, .NET, SQL Server, Node.js, MySQL, API Integration
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠 Tech Stack
 
-## Running end-to-end tests
+### Frontend
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* Angular
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+* Vite React (Learning)
 
-## Further help
+### Backend
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* .NET
+* ASP.NET Core
+* Node.js
+* Express.js
 
-<!-- cd C:\VARMA\New Website\VarmaPradeep
-ng build --configuration production --base-href "/varmapradeep/"
-npx angular-cli-ghpages --dir=dist/varmapradeep
-https://varmapradeep.github.io/varmapradeep/ -->
+### Database
+
+* SQL Server (SSMS)
+* MySQL
+* MongoDB (Learning)
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Visual Studio
+* Postman
+* npm
+* Angular CLI
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 WorkWise ERP System
+
+Role-based ERP web application with:
+
+* SuperAdmin / Admin / User access control
+* Secure login architecture
+* Angular 15+ frontend
+* Bootstrap + Mantis Template integration
+* Performance optimization and responsive UI
+
+### 🏖 Resort Management System
+
+Management platform for:
+
+* Room booking management
+* Category and district handling
+* Real-time booking visibility
+* Multi-manager access
+* Reports and analytics
+
+### 📷 Advanced Angular Camera Module
+
+Features include:
+
+* Camera access
+* Image capture
+* Advanced camera controls
+* Responsive UI implementation
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+> Replace these links with your actual profile URLs
+
+* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* Instagram: [https://instagram.com/YOUR_PROFILE](https://instagram.com/YOUR_PROFILE)
+* Twitter/X: [https://x.com/YOUR_PROFILE](https://x.com/YOUR_PROFILE)
+* Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+* Email: [yourmail@example.com](mailto:yourmail@example.com)
+
+---
+
+## ✨ Personal Motto
+
+> "Code with logic. Build with purpose. Grow with consistency."
+
+---
+
+## ⭐ Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
