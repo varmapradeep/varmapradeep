@@ -1,127 +1,109 @@
-# Hi there 👋, I'm Varma Pradeep
+# 👋 Hi, I'm Varma Pradeep
 
-## 🚀 Software Developer | Full Stack Developer
+## Mechanical Engineer | Full Stack Developer
 
-Passionate Software Developer with experience in building scalable web applications using **Angular, .NET, Node.js, MySQL, and SQL Server**. I enjoy solving real-world problems, developing ERP systems, management platforms, and modern web applications with clean UI and secure architecture.
+I'm a Mechanical Engineering graduate turned Full Stack Developer.
 
-Currently focused on:
+I love building web applications that are fast, responsive and user-friendly with clean code and great UI/UX.
 
-* Angular Development (Intermediate Level)
-* Full Stack Development with .NET + Angular
-* ERP & Resort Management Systems
-* Secure Role-Based Applications
-* API Integration & Performance Optimization
+I enjoy turning ideas into real-world solutions.
 
 ---
 
-## 👨‍💻 About Me
+### 💻 Web Development    🎨 UI/UX Design    📱 Responsive Design
 
-* 💼 Role: Software Developer
-* 🌍 Location: India
-* 🧠 Currently Learning: Advanced Angular & System Design
-* 🏗 Working On: ERP Systems, Resort Management System, Camera-based Angular Projects
-* 🎯 Goal: Build high-performance enterprise applications
-* 💬 Ask me about: Angular, .NET, SQL Server, Node.js, MySQL, API Integration
+### ⚙️ Problem Solving    🚀 Continuous Learning
 
 ---
 
-## 🛠 Tech Stack
+## 🎓 Education | 🎯 Focus | 🌱 Currently Learning | 📍 Location
 
-### Frontend
-
-* Angular
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* Vite React (Learning)
-
-### Backend
-
-* .NET
-* ASP.NET Core
-* Node.js
-* Express.js
-
-### Database
-
-* SQL Server (SSMS)
-* MySQL
-* MongoDB (Learning)
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Visual Studio
-* Postman
-* npm
-* Angular CLI
+| Education                  | Focus                  | Currently Learning                        | Location |
+| -------------------------- | ---------------------- | ----------------------------------------- | -------- |
+|  MCA                       | Full Stack Development | Advanced Web Technologies & System Design | India    |
 
 ---
 
-## 📌 Featured Projects
+# 🛠 Tech Stack
 
-### 🏢 WorkWise ERP System
+## Languages
 
-Role-based ERP web application with:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
-* SuperAdmin / Admin / User access control
-* Secure login architecture
-* Angular 15+ frontend
-* Bootstrap + Mantis Template integration
-* Performance optimization and responsive UI
+## Frontend
 
-### 🏖 Resort Management System
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap" />
+</p>
 
-Management platform for:
+## Backend
 
-* Room booking management
-* Category and district handling
-* Real-time booking visibility
-* Multi-manager access
-* Reports and analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+</p>
 
-### 📷 Advanced Angular Camera Module
+<p><b>REST API</b></p>
 
-Features include:
+## Database
 
-* Camera access
-* Image capture
-* Advanced camera controls
-* Responsive UI implementation
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
----
+<p><b>SQL Server (SSMS)</b></p>
 
-## 📈 GitHub Stats
+## Tools & Others
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-> Replace these links with your actual profile URLs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varmapradeep\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* Instagram: [https://instagram.com/YOUR_PROFILE](https://instagram.com/YOUR_PROFILE)
-* Twitter/X: [https://x.com/YOUR_PROFILE](https://x.com/YOUR_PROFILE)
-* Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
-* Email: [yourmail@example.com](mailto:yourmail@example.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varmapradeep\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## ✨ Personal Motto
+# 🌐 Connect With Me
 
-> "Code with logic. Build with purpose. Grow with consistency."
+### 💼 LinkedIn
+
+[https://linkedin.com/in/varma-pradeep-60911720a](https://linkedin.com/in/varma-pradeep-60911720a)
+
+### 💻 GitHub
+
+[https://github.com/varmapradeep](https://github.com/varmapradeep)
+
+### 🌍 Portfolio
+
+[https://varmapradeep.github.io/varmapradeep/](https://varmapradeep.github.io/varmapradeep/)
+
+### 𝕏 X (Twitter)
+
+[https://x.com/VARMAPRADEEPVP](https://x.com/VARMAPRADEEPVP)
+
+### 📘 Facebook
+
+[https://facebook.com/varma.pradeep.73](https://facebook.com/varma.pradeep.73)
+
+### 📸 Instagram
+
+[https://instagram.com/3_wheel_walker](https://instagram.com/3_wheel_walker)
 
 ---
 
-## ⭐ Profile Views
+# 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Visitor Count](https://komarev.com/ghpvc/?username=varmapradeep\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+# ✨ Personal Motto
+
+> Code with logic. Build with purpose. Grow with consistency.
