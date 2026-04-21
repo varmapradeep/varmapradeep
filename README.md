@@ -1,6 +1,5 @@
-# 👋 Hey there! I'm Varma Pradeep
-
 <div align="center">
+# 👋 Hey there! I'm Varma Pradeep
 
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast
 
